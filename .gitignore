@@ -77,10 +77,13 @@ StarterContent/
 Config/
 
 Content/Characters/*
-
+Content/Frank_RPG_Mage/
 ParagonAurora/
 ParagonGideon/
 ParagonGrux/
 ParagonSevarog/
 Fab/
 *.ini
+
+
+2Handed_HammerSet/
